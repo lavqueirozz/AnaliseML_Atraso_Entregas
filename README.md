@@ -5,9 +5,9 @@ Analise de uma base de dados para descobrir porque as entregas estão atrasando 
 
 1- Coleta dos dados
   - Usei a biblioteca Pandas
-  - importei o dataset
-  - conheci os dados
-  - traduzi o dataframe para portugues para o mehlor entendimento
+  - Importei o dataset
+  - Conheci os dados
+  - Traduzi o dataframe para portugues para o mehlor entendimento
 
 2- 'Tratamento' dos outliers
   - Usei as bibliotecas Matplotlib e Seaborn para criar os graficos de BoxPlot 
